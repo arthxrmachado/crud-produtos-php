@@ -2,6 +2,11 @@
 
 Este projeto é uma aplicação voltada para o gerenciamento de produtos, oferecendo funcionalidades de um CRUD para manipular informações de itens disponíveis. Além disso, inclui uma opção de pesquisa por código de barras para acesso rápido às informações de um produto específico.
 
+#### Tecnologias utilizadas:
+
+- Linguagens: HTML e PHP;
+- Banco de Dados: MySQL.
+
 #### Funcionalidades Principais:
 
 - Cadastro de produtos: adicione novos produtos com detalhes, como: nome, fabricante, código de barras e categoria;
