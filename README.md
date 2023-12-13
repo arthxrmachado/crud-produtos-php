@@ -4,10 +4,10 @@ Este projeto é uma aplicação voltada para o gerenciamento de produtos, oferec
 
 #### Funcionalidades Principais:
 
-- Cadastro de produtos: adicione novos produtos com detalhes.
-- Edição de produtos: atualize informações existentes de produtos já cadastrados.
-- Pesquisa por código de barras: busque um produto utilizando o código de barras para acessar informações específicas.
-- Listagem de produtos ativos: visualize todos os produtos ativos de forma organizada.
+- Cadastro de produtos: adicione novos produtos com detalhes, como: nome, fabricante, código de barras e categoria;
+- Edição de produtos: atualize informações existentes de produtos já cadastrados;
+- Pesquisa por código de barras: busque um produto utilizando o código de barras para acessar informações específicas;
+- Listagem de produtos ativos: visualize todos os produtos ativos de forma organizada;
 - Exclusão de produtos: remova registros de produtos do sistema.
 
 #### Observações:
